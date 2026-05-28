@@ -7,4 +7,5 @@ My accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), au
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Increasing Array | Introductory Problems | [ C++ ](https://github.com/rajajisai/cses-solutions/blob/main/Introductory_Problems/Increasing_Array/Increasing_Array.cpp) |
 | Repetitions | Introductory Problems | [ C++ ](https://github.com/rajajisai/cses-solutions/blob/main/Introductory_Problems/Repetitions/Repetitions.cpp) |
